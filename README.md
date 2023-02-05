@@ -1,4 +1,4 @@
-# Data-Driven-Motion-Planning
+# Data-Driven-Motion-Planning (Final Project - ENPM 808A: Introduction to Machine Learning)
   
 ## Objective
 
