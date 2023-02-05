@@ -6,9 +6,8 @@ The goal of this project is to develop a machine learning model for a four-wheel
 
 #Dependencies Used:
 
-NumPy
-
-Matplotlib
-Pandas
-scikit-learn
-TensorFlow
+  NumPy
+  Matplotlib
+  Pandas
+  scikit-learn
+  TensorFlow
