@@ -30,6 +30,7 @@ The goal of this project is to develop a machine learning model for a four-wheel
 Convoluted Neural Networks
 
 
+![alt text](https://github.com/Sakethbngr/Data-Driven-Motion-Planning/blob/712ce0f74ad49a4099204734bcd5de5d1515d4e3/Results/Ein.png?raw=true)
 
 
 
